@@ -361,432 +361,444 @@ LOEPENR	PARADIGME_ID	BOY_GRUPPE	ORDKLASSE	ORDKLASSE_UTDYPING	FORKLARING	DOEME	ID
 360	45C	pronomen, enkel	pron pers 3 fl			disse	611
 361	45D	pronomen, normal	pron pers 3 ent mask hum			' n	641
 362	45E	pronomen, enkel	pron pers 3 ent fem			inga	643
-363	460	pronomen, enkel	pron pers ent hum nom			man	297
-364	461	pronomen, normal	pron pers 3 fl høflig			De	298
-365	462	pronomen, normal	pron pers 3 ent mask hum			han	299
-366	463	pronomen, enkel	pron pers 3 ent mask fem			den	300
-367	464	pronomen, enkel	pron res fl hum			hverandre	301
-368	465	pronomen, enkel	pron pers ent hum			en	640
-369	466	pronomen, enkel	pron sp hum			hvem	302
-370	467	pronomen, enkel	pron sp			hva	303
-371	468	pronomen, enkel	pron sp poss hum			hvis	304
-372	469	pronomen, enkel	pron ent			ingenting	305
-373	470	determinativ	det poss			min	306
-374	472	determinativ	det poss			din	307
-375	474	determinativ	det poss			sin	308
-376	477	determinativ	det poss			vår	315
-377	478	determinativ	det dem			hin	316
-378	479	determinativ	det dem			hin	317
-379	47A	determinativ, enkel	det poss		Kan slås sammen	hans	309
-380	47B	determinativ, enkel	det poss		Kan slås sammen	hennes	310
-381	47C	determinativ, enkel	det poss		Kan slås sammen	dens	311
-382	47D	determinativ, enkel	det poss		Kan slås sammen	dets	312
-383	47E	determinativ, enkel	det poss		Kan slås sammen	deres	313
-384	47F	determinativ, enkel	det poss res		Kan slås sammen	hverandres	639
-385	47G	determinativ, enkel	det poss høflig		Kan slås sammen	Deres	314
-386	480	determinativ, enkel	det dem mask ent			denne	318
-387	481	determinativ, enkel	det dem mask ent			den	319
-388	482	determinativ	det dem			slik	320
-389	483	determinativ	det dem			sånn	321
-390	484	determinativ	det dem			sådan	322
-391	485	determinativ	det kvant	uten_mask/fem		somt	323
-392	486	determinativ	det kvant	ent	også mang går slik	hver	324
-393	487	determinativ	det kvant	uten_nøyt	noe mat/noe gutter	noe	637
-394	488	determinativ	det sp			hvilken	325
-395	489	determinativ	det kvant			noen	326
-396	48A	determinativ, enkel	det dem nøyt ent			dette	327
-397	48B	determinativ, enkel	det dem fl			disse	328
-398	48C	determinativ, enkel	det dem nøyt ent			det	329
-399	48D	determinativ, enkel	det dem fl			de	330
-400	48E	determinativ, enkel	det dem fem ent			denne	629
-401	48F	determinativ, enkel	det dem fem ent			den	630
-402	490	determinativ	det kvant			ingen	331
-403	490A	determinativ	det kvant			ingen	791
-404	491	determinativ, <adj>	det forst <adj>		enkelttilfelle	egen	332
-405	492	determinativ, <adj>	det forst <adj>		enkelttilfelle	eigen	333
-406	493	determinativ	det kvant			all	334
-407	494	determinativ	det kvant	ent		annenhver	335
-408	495	determinativ	det kvant	ent		enhver	336
-409	496	determinativ	det kvant	ent		en	337
-410	497	determinativ	det kvant	fl ubøyelig		begge	338
-411	498	determinativ	det kvant	fl ubøyelig	tallord	to	339
-412	499	determinativ	det kvant	ent		en	340
-413	49A	determinativ, enkel	det forst <adj>			selv	341
-414	49B	determinativ, enkel	det be			selve	342
-415	49C	determinativ	det kvant	ent		halvannen	343
-416	49D	determinativ	det kvant	ent		halvannen	344
-417	49E	determinativ, enkel	det dem be <adj>			samme	345
-418	49F	determinativ, <adj>	det dem <adj>		enkelttilfelle	annen	346
-419	49G	determinativ, <adj>	det dem <adj>		enkelttilfelle	annen	347
-420	49H	determinativ, <adj>	det dem <adj>		enkelttilfelle	annen	348
-421	49I	determinativ	det kvant	ent		én	631
-422	49J	determinativ, enkel	det kvant be <adj>			eneste	632
-423	49K	determinativ, enkel	det kvant be ent			ene	633
-424	49L	determinativ, enkel	det kvant	unormert		no'	635
-425	49M	determinativ	det kvant	uttr med_dobbel_bøying	enkelttilfelle	mang én	751
-426	49N	determinativ	det kvant	uttr med_dobbel_bøying_fem_éi	enkelttilfelle	mang én	752
-427	49P	determinativ	det kvant	uttr med_dobbel_bøying	enkelttilfelle	mang en	753
-428	49Q	determinativ	det kvant	uttr med_dobbel_bøying_fem_ei	enkelttilfelle	mang en	754
-429	500	adjektiv	adj	nøytr_T	fullst, m gradbøying	rik	349
-430	501	adjektiv	adj	nøytr_0	fullst, m gradbøying	distré -	684
-431	502	adjektiv	adj	nøytr_TT	fullst, m gradbøying	fri	350
-432	503	adjektiv	adj	nøytr_0 fl_0 be_0	fullst, m gradbøying	distré -	685
-433	504	adjektiv	adj	nøytr_0	fullst, m gradbøying	skjelmsk -	351
-434	505	adjektiv	adj	nøytr_0	fullst	diskre -	683
-435	506	adjektiv	adj	nøytr_TT fl_0 be_0	fullst, m gradbøying	rå -	352
-436	506E	adjektiv	adj	suppletiv	enkelttilfelle m suppl gradbøying	små	788
-437	507	adjektiv	adj	nøytr_T	fullst	nøktern	686
-438	508	adjektiv	adj	nøytr_0 redusertend_sup	fullst på_IG, m gradbøying	kraftig	353
-439	509	adjektiv	adj	nøytr_0		diskré -	687
-440	510	adjektiv	adj	nøytr_T redusertend_komp_sup	fullst, m gradbøying	høg -	354
-441	511	adjektiv	adj	nøytr_TT		valgfri	688
-442	512	adjektiv	adj	nøytr_0 fl_0 be_0	fullst, m gradbøying	ru -	355
-443	513	adjektiv	adj	ubøyd	ubøyd	utdanna -	356
-444	514	adjektiv	adj	på_E nøytr_0 fl_0 be_0	fullst, m gradbøying	nøye	357
-445	515	adjektiv	adj <ordenstall>	ubøyd		første	358
-446	516	adjektiv	adj	sup_ub_0 sup_be_E	bare_sup	akterst	359
-447	517	adjektiv	adj	nøytr_0 fl_0 be_0		diskré	689
-448	518	adjektiv	adj	nøytr_0 	fullst	forbundsvis, dansk, beveget	690
-449	519	adjektiv	adj		enkelttilfelle, m suppl gradbøying	verre	638
-450	520	adjektiv	adj	nøytr_-T	fullst, m gradbøying	øde -	360
-451	521	adjektiv	adj	nøytr_TT fl_0 be_0		mørkeblå	691
-452	522	adjektiv	adj		enkelttilfelle, m gradbøying	jamn	361
-453	523	adjektiv	adj			mannjamn	714
-454	524	adjektiv	adj	nøytr_-T	fullst, m gradbøying	frekk	362
-455	526	adjektiv	adj	vokalskifte_nøytr nøytr_T	fullst, m gradbøying	feit -	363
-456	527	adjektiv	adj	nøytr_-T		øde	694
-457	528	adjektiv	adj	nøytr_-T		kriminell	695
-458	529	adjektiv	adj	vokalskifte_nøytr nøytr_T		smellfeit	696
-459	530	adjektiv	adj	på_ET utskyt_fl  utskyt_be fl_NE be_NE	fullst av partisipp på E, m gradbøying	tettskrevet	364
-460	531	adjektiv	adj	på_ET utskyt_fl  utskyt_be fl_NE be_NE		nedskrevet	697
-461	532	adjektiv	adj	på_ET forenkl utskyt_fl  utskyt_be fl_NE be_NE	fullst av partisipp på ET, m gradbøying	nedfrosset	365
-462	533	adjektiv	adj	på_ET forenkl utskyt_fl  utskyt_be fl_NE		nedfrosset	698
-463	534	adjektiv	adj	på_ET utskyt_fl  utskyt_be fl_DE be_DE	fullst, m gradbøying	helhjertet -	366
-464	535	adjektiv	adj	på_ET utskyt_fl  utskyt_be fl_DE be_DE		helhjertet	699
-465	540	adjektiv	adj	på_EN utskyt_fl  utskyt_be fl_NE be_NE	fullst, m gradbøying	uskreven	367
-466	541	adjektiv	adj	på_EN utskyt_fl  utskyt_be fl_NE be_NE		uskreven	700
-467	542	adjektiv	adj	på_EN utskyt_fl  utskyt_be fl_TE be_TE	fullst, m gradbøying	bortløpen -	368
-468	543	adjektiv	adj	på_EN utskyt_fl  utskyt_be fl_TE be_TE		bortløpen	701
-469	544	adjektiv	adj	på_EN utskyt_fl  utskyt_be fl_NE be_NE nøyt_ENT	fullst, m gradbøying	vrien -	369
-470	545	adjektiv	adj	på_EN utskyt_fl  utskyt_be fl_NE be_NE nøyt_ENT		vrien	702
-471	546	adjektiv	adj	på_EN forenkl utskyt_fl  utskyt_be fl_NE be_NE	fullst av partisipp på EN, m gradbøying	viderekommen	370
-472	547	adjektiv	adj	på_EN forenkl utskyt_fl  utskyt_be fl_NE be_NE		viderekommen	703
-473	548	adjektiv	adj		enkelttilfelle, m gradbøying	maken -	371
-474	549	adjektiv	adj		enkelttilfelle	maken	704
-475	560	adjektiv	adj	på_EL_EN_ER utskyt	fullst, m gradbøying	simpel	372
-476	561	adjektiv	adj	på_EL_EN_ER utskyt		singel	706
-477	562	adjektiv	adj	på_EL_EN_ER utskyt forenkl	fullst, m gradbøying	ekkel	373
-478	563	adjektiv	adj	på_EL_EN_ER utskyt forenkl		dobbel	705
-479	570	adjektiv	adj	MM	fullst også for liketil og likedan, m gradbøying	tam	374
-480	571	adjektiv	adj	MM		hestedum	707
-481	572	adjektiv	adj	nøytr_0 konsfordobling_NN	fullst, m gradbøying	likedan -	375
-482	573	adjektiv	adj	nøytr_0 konsfordobling_NN		likedan	708
-483	574	adjektiv	adj	på_SOM redusertend_sup	fullst, m gradbøying	tvilsom	376
-484	575	adjektiv	adj	på_IS utskyt_fl utskyt_be	fullst, m gradbøying	ymis	377
-485	576	adjektiv	adj	på_IS utskyt_fl utskyt_be		ymis	709
-486	600	adjektiv	adj	omlyd_A>E	fullst enkelttilfelle, m gradbøying	lang	378
-487	601	adjektiv	adj	omlyd_A>E	fullst unorm, m gradbøying	lang	619
-488	602	adjektiv	adj	omlyd_O>Ø	fullst enkelttilfelle, m gradbøying	stor	379
-489	604	adjektiv	adj	suppletiv	fullst, m suppl gradbøying	god	380
-490	605	adjektiv	adj	suppletiv	fullst, m suppl gradbøying	ond	644
-491	606	adjektiv	adj	suppletiv	fullst, m suppl gradbøying	vond -	381
-492	607	adjektiv	adj	suppletiv	samme komp som OND 606, m suppl gradbøying	ille	382
-493	608	adjektiv	adj	omlyd_O>Ø	fullst enkelttilfelle, m gradbøying	grov -	383
-494	609	adjektiv	adj	suppletiv	fullst, med suppl gradbøying, enkelttilfelle	bra	799
-495	610	adjektiv	adj	suppletiv, komp_med_ E	enkelttilfelle, m suppl gradbøying	mange	384
-496	611	adjektiv	adj	suppletiv, komp_uten_ E	enkelttilfelle, m suppl gradbøying	fler	780
-497	612	adjektiv	adj	omlyd_U>Y	fullst, m gradbøying	tung -	385
-498	620	adjektiv	adj	suppletiv	fullst enkelttilfelle jf 621, m suppl gradbøying	gammel	386
-499	621	adjektiv	adj	suppletiv	fullst enkelttilfelle jf 620, m suppl gradbøying 	gammal	387
-500	622	adjektiv	adj		enkelttilfelle, m gradbøying	nær -	388
-501	623	adjektiv	adj	uten gradbøy		eldgammal	710
-502	624	adjektiv	adj	uten gradbøy		eldgammel	711
-503	630	adjektiv	adj	suppletiv	fullst enkelttilfelle, m gradbøying	mye	389
-504	631	adjektiv	adj	uten_positiv	Enkeltilfelle m gradbøy	fler	779
-505	632	adjektiv	adj	omlyd_Å>Æ	enkelttilfelle, m gradbøying	få	390
-506	633	adjektiv	adj	Uten_gradbøying	enkelttilfelle	annen	796
-507	640	adjektiv, adverbtype	adv		enkelttilfelle, m gradbøying	lenge	715
-508	641	adjektiv, adverbtype	adv		ordinær, m gradbøying	fort	716
-509	642	adjektiv, adverbtype	adv		enkelttilfelle, m gradbøying	lenge	717
-510	643	adjektiv, adverbtype	adv	på_E	m gradbøying	ofte	718
-511	644	adjektiv, adverbtype	adv	suppletiv	m gradbøying	gjerne	719
-512	645	adjektiv, adverbtype	adv		enkelttilfelle, m gradbøying	titt	720
-513	646	adjektiv, adverbtype	adv		enkelttilfelle, m gradbøying	nær	721
-514	647	adjektiv, adverbtype	adv		enkelttilfelle, m gradbøying	langt	722
-515	648	adjektiv, adverbtype	adv	redusertend_sup	på_IG, m gradbøying	nødig	723
-516	649	adjektiv, adverbtype	adv	Adj_til_Adv_med_T	ordinær, m gradbøying	snart	755
-517	650	adjektiv	adj	uten_positiv	m gradbøying	undre	391
-518	652	adjektiv	adj	uten_positiv	m gradbøying	øvre -	392
-519	654	adjektiv	adj	uten_positiv	m gradbøying	ytre -	393
-520	655	adjektiv	adj	uten_positiv	m gradbøying	engere	781
-521	656	adjektiv	adj	uten_positiv redusertend_komp_sup	enkelttilfelle, m gradbøying	indre -	394
-522	657	adjektiv	adj	uten_positiv redusertend_komp_sup	enkelttilfelle, m gradbøying	indre -	395
-523	664	adjektiv	adj		enkelttilfelle	emeritus	396
-524	665	adjektiv, ulik m/f	adj	fem_A, nøytr_LITE, be_LILLE	fullst, enkelttilfelle, m gradbøying	liten -	397
-525	665A	adjektiv, ulik m/f	adj	fem_EN, nøytr_LITE, be_LILLE	fullst, enkelttilfelle, m gradbøying	liten -	760
-526	666	adjektiv, ulik m/f	adj	fem_A, nøytr_SMÅTT, be_LILLE	fullst, enkelttilfelle, m gradbøying	liten -	398
-527	666A	adjektiv, ulik m/f	adj	fem_EN, nøytr_SMÅTT, be_LILLE	fullst, enkelttilfelle, m gradbøying	liten -	761
-528	667	adjektiv, ulik m/f	adj	fem_A, nøytr_LITE, be_LILLE		ørliten -	712
-529	667A	adjektiv, ulik m/f	adj	fem_EN, nøytr_LITE, be_LILLE		ørliten -	762
-530	668	adjektiv, ulik m/f	adj	fem_A, nøytr_SMÅTT, be_LILLE		ørliten -	713
-531	668A	adjektiv, ulik m/f	adj	fem_EN, nøytr_SMÅTT, be_LILLE		ørliten -	763
-532	669	adjektiv, ulik m/f	adj	fem_A, nøytr_LITE, be_VESLE	fullst, enkelttilfelle m gradbøying	liten -	764
-533	669A	adjektiv, ulik m/f	adj	fem_A, nøytr_SMÅTT, be_VESLE	fullst, enkelttilfelle, m gradbøying	liten -	768
-534	670	adjektiv, ulik m/f	adj	fem_EN, nøytr_LITE, be_VESLE	fullst, enkelttilfelle, m gradbøying	liten -	765
-535	670A	adjektiv, ulik m/f	adj	fem_EN, nøytr_SMÅTT, be_VESLE	fullst, enkelttilfelle, m gradbøying	liten -	769
-536	671	adjektiv, ulik m/f	adj	fem_A, nøytr_LITE, be_VESLE		ørliten -	766
-537	671A	adjektiv, ulik m/f	adj	fem_A, nøytr_SMÅTT, be_VESLE		ørliten -	770
-538	672	adjektiv, ulik m/f	adj	fem_EN, nøytr_LITE, be_VESLE		ørliten -	767
-539	672A	adjektiv, ulik m/f	adj	fem_EN, nøytr_SMÅTT, be_VESLE		ørliten -	771
-540	674	adjektiv, adverbtype	adj <adv>		enkelttilfelle	lenge -	636
-541	675	adjektiv, adverbtype	adj <adv>	ordinær	m gradbøying	fort	399
-542	676	adjektiv, adverbtype	adj <adv>		enkelttilfelle, m gradbøying	lenge -	400
-543	677	adjektiv, adverbtype	adj <adv>	på_E	m gradbøying	ofte	401
-544	678	adjektiv, adverbtype	adj <adv>	suppletiv	m gradbøying	gjerne	402
-545	679	adjektiv, adverbtype	adj <adv>		enkelttilfelle, m gradbøying	titt	403
-546	686	adjektiv, adverbtype	adj <adv>		enkelttilfelle, m gradbøying	nær -	405
-547	689	adjektiv, adverbtype	adj <adv>		enkelttilfelle, m gradbøying	langt	406
-548	690	adjektiv, adverbtype	adj <adv>	redusertend_sup, m gradbøying	på_IG	nødig	407
-549	691	preposisjon	prep			av	408
-550	692	konjunksjon	konj			og	409
-551	693	subjunksjon	sbu			at	410
-552	694	interjeksjon	interj			hysj	411
-553	695	adverb	adv	ubøyelig		akkurat	412
-554	696	subjunksjon	inf-merke			å	413
-555	697	konjunksjon	konj <adv>			både	414
-556	698	subjunksjon	sbu <spørreartikkel>			mon	415
-557	699	konjunksjon	CLB konj			og	620
-558	700	substantiv	subst mask appell		fullst	bil	416
-559	701	substantiv	subst mask appell	med_bindestrek	fullst	A	417
-560	702	substantiv	subst mask appell	på_E	fullst	time	418
-561	703	substantiv	subst mask appell	aksent	fullst svarer til 700	komité	419
-562	704	substantiv	subst mask appell	fl ub uten ending fl be A	fullst	feil	658
-563	705	substantiv	subst mask appell	på_OS fl_ub_--ER fl_be_--ENE gresk	fullst enkelttilfelle	daktylos	420
-564	706	substantiv	subst mask appell	på_OS fl_ub_-ER fl_be_-ENE gresk	fullst enkelttilfelle	heros	421
-565	707	substantiv	subst mask appell	ub en É%	fullst	hellebardér	659
-566	709	substantiv	subst mask appell	fl_ub_E tysk	fullst enkelttilfelle	bundsforvant	642
-567	711	substantiv	subst mask appell	på_ER fl_ub_ER fl_be_NE	fullst	skriver -	422
-568	712	substantiv	subst mask appell	på_ER fl_ub_E	fullst	skriver -	423
-569	713	substantiv	subst mask appell	på_ER fl_ub_0	fullst	meter	424
-570	714	substantiv	subst mask appell	på_RA_fl_ub_RE_fl_be_RENE	fullst enkelttilfelle	ginstra (gyvel)	759
-571	715	substantiv	subst mask appell	fl_ub_0	fullst	ting	425
-572	716	substantiv	subst mask appell	på_E fl_ub_0	fullst	lire	426
-573	717	substantiv	subst mask appell	på_ER utskyt_03_04	fullst	seier	427
-574	718	substantiv	subst mask appell	med_bindestrek fl_ub_0	fullst	pH	648
-575	719	substantiv	subst mask appell	på_RA_fl_ub_RER_fl_be_RENE	fullst enkelttilfelle	ginstra (gyvel)	758
-576	720	substantiv	subst mask appell	på_EL_EN_ER utskyt_03_04	fullst	regel	428
-577	721	substantiv	subst mask appell	på_EL_EN_ER forenkl utskyt_03_04	fullst	tittel	429
-578	722	substantiv	subst mask appell	på_EL_EN_ER utskyt_04 fl_ub_0	fullst	yngel	430
-579	723	substantiv	subst mask appell	på_EL_EN_ER utskyt_03_04 fl_ub_0 fl_be_A	fullst	forelder -	431
-580	724	substantiv	subst mask appell	på_EL_EN_ER utskyt_03_04 fl_ub_0 fl_be_ENE	fullst	forelder -	432
-581	725	substantiv	subst mask appell	MM	fullst	kam	433
-582	726	substantiv	subst mask appell	på_AR MM utskyt_03_04	fullst	hammar	434
-583	727	substantiv	subst mask appell	utskyt_03_04	fullst	jotun -	435
-584	728	substantiv	subst mask appell	utskyt_02_03_04	fullst	jotun -	436
-585	729	substantiv	subst mask appell	på_AR utskyt_03_04	fullst	navar -	437
-586	730	substantiv	subst mask appell	på_US ent_be_--EN fl_ub_--ER fl_be_--ENE latin	fullst	dekanus	438
-587	731	substantiv	subst mask appell	på_IS ent_be_--EN fl_ub_--ER fl_be_--ENE latin	fullst	amanuensis	439
-588	732	substantiv	subst mask appell	på_IS fl_ub_-IDER fl_be_-IDENE latin	fullst	apsis -	440
-589	733	substantiv	subst mask appell	på_UM fl_ub_--ER fl_be_--ENE latin	fullst	krysantemum -	441
-590	734	substantiv	subst mask appell	på_A fl_ub_-ER fl_be_-ENE latin	fullst	begonia -	442
-591	735	substantiv	subst mask appell	på_US fl_ub_--IER fl_be_--IENE latin	fullst	dinosaurus -	443
-592	736	substantiv	subst mask appell	på_IUM fl_ub_--ER fl_be_--ENE latin	fullst	geranium -	444
-593	737	substantiv	subst mask appell	på_UM fl_ub_--A fl_be_--AENE latin	fullst	datum -	445
-594	738	substantiv	subst mask appell	på_IS fl_ub_-ER fl_be_-ENE latin	fullst enkelttilfelle	taksis -	446
-595	739	substantiv	subst mask appell	på_IS fl_ub_--ER fl_be_--ENE latin	fullst	dosis -	447
-596	740	substantiv	subst mask appell	på_I fl_ub_M fl_be_MENE hebraisk	fullst	sefardi	448
-597	741	substantiv	subst mask appell	fl_ub_ER fl_be_A	fullst unormert	gutt	618
-598	742	substantiv	subst mask appell	utskyt_03_04 forenkl fl_ub_E	fullst unormert	sommer -	627
-599	747	substantiv	subst nøyt appell	fl_ub_S_-0_fl_b_S_-ENE_fransk	fullst enkelttilfelle	enfant terrible	793
-600	748	substantiv	subst mask appell	på_E fl_ub_S	fullst	centime -	449
-601	749	substantiv	subst mask appell	på_ERE fl_be_ERNE	bare_fl	kynnere	727
-602	750	substantiv	subst mask appell	ON>ES_03_04 fl_ub_S fl_be_SENE fransk	fullst enkelttilfelle	monsieur	792
-603	751	substantiv	subst mask appell	på_O fl_ub_-I fl_be_-IENE italiensk	fullst	konto -	450
-604	752	substantiv	subst mask appell	fl_ub_S_--0_fl_b_S_--ENE_fransk	fullst enkelttilfelle	%affaires	789
-605	753	substantiv	subst mask appell	på_US fl_ub_--ER fl_be_--ENE	fullst	auksjonarius	451
-606	754	substantiv	subst mask appell	fl_ub_R fl_be_RNE	fullst	sko -	452
-607	755	substantiv	subst mask appell	på_IO fl_ub_-ER fl_be_-ENE italiensk	fullst	impresario -	453
-608	756	substantiv	subst mask appell	på_US fl_ub_--I fl_be_--IENE latin	fullst	modus	454
-609	757	substantiv	subst mask appell	på_US fl_ub_--ERA fl_be_--ERAENE latin	fullst enkelttilfelle	genus -	455
-610	759	substantiv	subst mask appell	på_KS fl_ub_--GER fl_be_--GENE gresk	fullst enkelttilfelle	falanks -	456
-611	760	substantiv	subst mask appell	omlyd_O>Ø på_E	fullst enkelttilfelle	bonde	457
-612	761	substantiv	subst mask appell	omlyd_O>Ø fl_ub_-DRE fl_be_DRENE	fullst enkelttilfelle	bror	458
-613	762	substantiv	subst mask appell	omlyd_A>E fl_ub_-DRE fl_be_DRENE	fullst enkelttilfelle	far	459
-614	763	substantiv	subst mask appell	omlyd_O>Ø konsfordobling_fl	fullst	fot	460
-615	764	substantiv	subst mask appell	omlyd_A>E fl_ub_0	fullst enkelttilfelle	mann	461
-616	765	substantiv	subst mask appell	omlyd_A>E	fullst enkelttilfelle	stad	462
-617	766	substantiv	subst mask appell	omlyd_A>E	fullst	stand	463
-618	767	substantiv	subst mask appell	omlyd_Å>Æ	fullst	ås	464
-619	768	substantiv	subst mask appell	omlyd_A>E fl_ub_--RE fl_be_--RENE	fullst enkelttilfelle	fader	465
-620	769	substantiv	subst mask appell	omlyd_O>Ø	fullst	hov	466
-621	76A	substantiv	subst mask appell	omlyd_O>E	fullst enkelttilfelle	voss	467
-622	76B	substantiv	subst mask appell	omlyd_O>Ø utskyt_03_04 fl_ub_E	fullst enkelttilfelle	broder	468
-623	76C	substantiv	subst mask appell	omlyd_O>Ø utskyt_03_04 fl_ub_E	fullst enkelttilfelle	moder -	469
-624	76D	substantiv	subst mask appell	omlyd_O>Ø utskyt_03_04	fullst enkelttilfelle	moder -	470
-625	76E	substantiv	subst mask appell	omlyd_O>Ø fl_ub_-DRE fl_be_-DRENE	fullst enkelttilfelle	mor -	471
-626	76F	substantiv	subst mask appell	omlyd_O>Ø fl_ub_-DRER fl_be_-DRENE	fullst enkelttilfelle	mor -	472
-627	76G	substantiv	subst mask appell	omlyd_A>Ø fl_ub_---RE fl_be_---RENE	fullform	datter -	473
-628	76H	substantiv	subst mask appell	omlyd_A>Ø fl_ub_---RER fl_be_---RENE	fullst enkelttilfelle	datter -	474
-629	76I	substantiv	subst mask appell	omlyd_Å>Æ fl_ub_R fl_be_RNE	fullst	flå -	475
-630	76J	substantiv	subst mask appell	omlyd_O>E	fullst ulike_kons	rong -	476
-631	76K	substantiv	subst mask appell	omlyd_A>E	fullst like_kons	natt -	477
-632	76L	substantiv	subst mask appell	omlyd_O>Ø fl_ub_R fl_be_RNE	fullst	glo -	478
-633	76M	substantiv	subst mask appell	omlyd_Å>Æ J-flyt 	fullst	skåk -	479
-634	76N	substantiv	subst mask appell	omlyd_Å>Æ J-flyt fl_ub_S fl_be_SENE	fullst	gås -	480
-635	76O	substantiv	subst mask appell	omlyd_U>Y fl_ub_R fl_be_RNE	fullst enkelttilfelle	ku -	481
-636	76P	substantiv	subst mask appell	omlyd_Å>E	fullst	hånd -	482
-637	770	substantiv	subst mask appell	fl_ub_S fl_be_ENE engelsk	fullst	fan	483
-638	771	substantiv	subst mask appell	omlyd_Å>Æ	fullst like_kons	tått -	650
-639	772	substantiv	subst mask appell	fl_ub_S fl_be_SENE engelsk	fullst	slide	484
-640	773	substantiv	subst mask appell	på_E fl_ub_S fl_be_NE engelsk	fullst	mile	485
-641	774	substantiv	subst mask appell	på_ON fl_ub_S engelsk	bare_ub	displaced_person	486
-642	775	substantiv	subst mask appell	på_Y fl_ub_-IES engelsk	fullst	royalty -	487
-643	776	substantiv	subst mask appell	på_MAN fl_ub_--MEN engelsk	bare_ub	gentleman	488
-644	777	substantiv	subst appell	på_S fl_be_ENE engelsk	bare_fl	flaps	489
-645	778	substantiv	subst mask appell	på_CH fl_ub_ES engelsk	fullst	inch	490
-646	779	substantiv	subst mask appell	på_NY fl_ub_--CE fl_be_--CENE engelsk	fullst enkelttilfelle	penny -	491
-647	780	substantiv	subst mask appell	på_ER fl_be_-NE latin	bare_fl jf. 781	formalier	492
-648	781	substantiv	subst mask appell	på_IA fl_be_-ENE latin	bare_fl jf. 780	formalia	493
-649	782	substantiv	subst mask appell	PÅ_E fl_be_NE	bare_fl	forfedre	494
-650	783	substantiv	subst mask appell	på_IA fl_ub_-ER fl_be_-ENE latin	fullst	promemoria - 	649
-651	784	substantiv	subst mask appell	på_EN  ub_NE fl_ub_NE fl_be_NE	fullst	kristen	741
-652	785	substantiv	subst mask appell	på_I  italiensk	bare_fl	carbonari	496
-653	786	substantiv	subst mask appell	på_O fl_ub_-I italiensk	bare_ub jf. 751	basso - 	497
-654	787	substantiv	subst appell	på_ER fl_be_-ENE	bare_fl ikke kjonn	aksessoar	673
-655	788	substantiv	subst mask appell	ub_fl_pa_i	fullst	ringgit	674
-656	789	substantiv	subst appell	bare_ub	enkelttilfelle	ars	734
-657	790	substantiv, ubøy	subst mask appell ubøy		ubøyd	barsok	498
-658	791	substantiv	subst mask appell		bare_ent_be	søten	499
-659	795	substantiv, ubøy	subst mask prop			Per	500
-660	800	substantiv	subst nøyt appell	fl_ub_0 fl_be_A	fullst	tak -	501
-661	801	substantiv	subst nøyt appell	fl_ub_ER fl_be_A	fullst	granul -	502
-662	802	substantiv	subst nøyt appell	på_E fl_ub_R fl_be_A	fullst	styre -	503
-663	803	substantiv	subst nøyt appell	med_bindestrek fl_ub_0 fl_be_A	fullst	OL -	504
-664	804	substantiv	subst nøyt appell	på_E fl_ub_E fl_be_A	fullst	løyve -	505
-665	805	substantiv	subst nøyt appell	med_bindestrek fl_ub_ER fl_be_ENE	fullst	PM -	506
-666	806	substantiv	subst nøyt appell	med_bindestrek fl_ub_ER fl_be_A	fullst	CV -	672
-667	807	substantiv	subst nøyt appell	på_ER fl_ub_0 fl_be_NE	fullst	pulver	772
-668	808	substantiv	subst nøyt appell	utskyt_04 fl_ub_0 fl_be_ENE	fullst	søsken -	507
-669	809	substantiv	subst nøyt appell		enkelttilfelle	øye -	508
-670	810	substantiv	subst nøyt appell	fl_ub_0 fl_be_ENE	fullst	tak -	509
-671	811	substantiv	subst nøyt appell	fl_ub_ER fl_be_ENE	fullst	granul -	510
-672	812	substantiv	subst nøyt appell	på_E fl_ub_R fl_be_NE	fullst	styre -	511
-673	813	substantiv	subst nøyt appell	med_bindestrek fl_ub_0 fl_be_ENE	fullst	OL -	512
-674	814	substantiv	subst nøyt appell	på_E fl_ub_0 fl_be_NE	fullst	løyve -	513
-675	815	substantiv	subst nøyt appell	utskyt_03_04 fl_ub_0 fl_be_A	fullst	orgel -	514
-676	816	substantiv	subst nøyt appell	utskyt_03_04 fl_ub_0 fl_be_ENE	fullst	orgel -	515
-677	817	substantiv	subst nøyt appell	utskyt_03_04 fl_ub_ER fl_be_A	fullst	krangel -	516
-678	818	substantiv	subst nøyt appell	utskyt_03_04 fl_ub_ER fl_be_ENE	fullst	krangel -	517
-679	819	substantiv	subst nøyt appell	utskyt_02_03_04 fl_ub_0 fl_be_A	fullst	rabalder -	518
-680	820	substantiv	subst nøyt appell	utskyt_02_03_04 fl_ub_0 fl_be_ENE	fullst	rabalder -	519
-681	821	substantiv	subst nøyt appell	utskyt_02_03_04 fl_ub_ER fl_be_A	fullst	orgel -	520
-682	822	substantiv	subst nøyt appell	utskyt_02_03_04 fl_ub_ER fl_be_ENE	fullst	orgel -	521
-683	823	substantiv	subst nøyt appell	utskyt_03_04 fl_ub_E fl_be_A	fullst	alter -	522
-684	824	substantiv	subst nøyt appell	utskyt_02_03_04 fl_ub_E fl_be_A	fullst	alter -	523
-685	825	substantiv	subst nøyt appell	utskyt_02_03_04 fl_ub_E fl_be_ENE	fullst	alter -	524
-686	826	substantiv	subst nøyt appell	utskyt_03_04 fl_ub_E fl_be_A	fullst	beger -	525
-687	827	substantiv	subst nøyt appell	utskyt_03_04 fl_ub_E fl_be_ENE	fullst	beger -	526
-688	828	substantiv	subst nøyt appell	fl_ub_E fl_be_NE	fullst	pulver -	527
-689	829	substantiv	subst nøyt appell		enkelttilfelle	tympanon	653
-690	830	substantiv	subst nøyt appell	MM fl_be_A	fullst	rom -	528
-691	831	substantiv	subst nøyt appell	MM fl_be_ENE	fullst	rom -	529
-692	832	substantiv	subst nøyt appell	MM fl_ub_ER fl_be_A	fullst	medlem -	530
-693	833	substantiv	subst nøyt appell	MM fl_ub_ER fl_be_ENE	fullst	medlem -	531
-694	834A	substantiv	subst nøyt appell	LL fl_be_A	fullst	farvel -	775
-695	834B	substantiv	subst nøyt appell	LL fl_be_ENE	fullst	farvel - 	776
-696	835	substantiv	subst nøyt appell	forenkl utskyt_03_04 fl_ub_0 fl_be_A	fullst	middel -	532
-697	836	substantiv	subst nøyt appell	forenkl utskyt_03_04 fl_ub_0 fl_be_ENE	fullst	middel -	533
-698	837	substantiv	subst nøyt appell	forenkl utskyt_02_03_04 fl_ub_ER fl_be_A	fullst	middel -	534
-699	838	substantiv	subst nøyt appell	forenkl utskyt_02_03_04 fl_ub_ER fl_be_ENE	fullst	middel -	535
-700	839	substantiv	subst nøyt appell	forenkl utskyt_02_03_04 fl_ub_E fl_be_A	fullst	gitter -	536
-701	840	substantiv	subst nøyt appell	forenkl utskyt_02_03_04 fl_ub_E fl_be_ENE	fullst	gitter -	537
-702	841	substantiv	subst nøyt appell	forenkl utskyt_03_04 fl_ub_E fl_be_A	fullst	kammer -	538
-703	842	substantiv	subst nøyt appell	forenkl utskyt_03_04 fl_ub_E fl_be_ENE	fullst	kammer -	539
-704	843	substantiv	subst nøyt appell	forenkl utskyt_03_04 fl_ub_ER fl_be_A	fullst	trippel -	540
-705	844	substantiv	subst nøyt appell	forenkl utskyt_03_04 fl_ub_ER fl_be_ENE	fullst	trippel -	541
-706	845	substantiv	subst nøyt appell	på_ER fl_ub_E fl_be_NE engelsk	fullst	water -	651
-707	846	substantiv	subst nøyt appell	forenkl utskyt_03_04 fl_ub_0 fl_be_A	fullst	fikkel	654
-708	847	substantiv	subst nøyt appell	forenkl utskyt_03_04 fl_ub_0 fl_be_A	fullst	fikkel	655
-709	848	substantiv	subst nøyt appell	fl_ub_ER fl_be_ENE	bare_fl	gaselløyer	724
-710	849	substantiv	subst nøyt appell	fl_ub_ER fl_be_A	bare_fl	gaselløyer	725
-711	850	substantiv	subst nøyt appell	på_UM ent_be_ET fl_ub_--A fl_be_--AENE latin	fullst	maskulinum -	542
-712	851	substantiv	subst nøyt appell	på_UM ent_be_--ET fl_ub_--ER fl_be_--A latin	fullst	maskulinum -	543
-713	852	substantiv	subst nøyt appell	på_UM ent_be_--ET fl_ub_--ER fl_be_--ENE latin	fullst	maskulinum -	544
-714	853	substantiv	subst nøyt appell	på_UM ent_be_ET fl_ub_--E fl_be_--A	fullst	monstrum -	545
-715	854	substantiv	subst nøyt appell	på_UM ent_be_ET fl_ub_--E fl_be_--ENE latin	fullst	monstrum -	546
-716	855	substantiv	subst nøyt appell	på_UM ent_be_--ET fl_ub_--E fl_be_--A latin	fullst	monstrum -	547
-717	856	substantiv	subst nøyt appell	på_UM ent_be_--ET fl_ub_--E fl_be_--ENE latin	fullst	monstrum -	548
-718	857	substantiv	subst nøyt appell	på_UM ent_be_ET fl_ub_--ER fl_be_--A latin	fullst	verbum -	549
-719	858	substantiv	subst nøyt appell	på_UM ent_be_ET fl_ub_--ER fl_be_--ENE latin	fullst	verbum -	550
-720	859	substantiv	subst nøyt appell	på_UM ent_be_--ET fl_ub_--A fl_be_--AENE latin	fullst	metrum -	646
-721	860	substantiv	subst nøyt appell	på_ER fl_be_NE engelsk	fullst	cover -	551
-722	861	substantiv	subst nøyt appell	på_EN fl_ub_--INA fl_be_--INAENE latin	fullst	omen -	552
-723	862	substantiv	subst nøyt appell	fl_ub_IER fl_be_IENE latin	fullst	animal -	553
-724	863	substantiv	subst nøyt appell	på_O fl_ub_-I fl_be_-IENE italiensk	fullst	divertimento -	554
-725	864	substantiv	subst nøyt appell	på_IA fl_ub_-ER fl_be_-ENE latin	fullst	gloria -	555
-726	865	substantiv	subst nøyt appell	omlyd_E>Æ fl_ub_R fl_be_RNE	fullst	kne -	556
-727	866	substantiv	subst nøyt appell	på_US fl_ub_--ORA fl_be_--ORAENE latin	fullst	tempus -	557
-728	867	substantiv	subst nøyt appell	på_US fl_ub_--ER fl_be_--ENE latin	fullst	kursus	558
-729	868	substantiv	subst nøyt appell	på_ON fl_ub_--A fl_be_--AENE gresk	fullst	leksikon -	559
-730	869	substantiv	subst nøyt appell	på_ON ent_be_--ET fl_ub_--ER  fl_be_--A gresk	fullst	symposion -	560
-731	870	substantiv	subst nøyt appell	på_ON ent_be_--ET fl_ub_--ER fl_be_--ENE gresk	fullst	symposion -	561
-732	871	substantiv	subst nøyt appell	på_US fl_ub_--ERA fl_be_--ERAENE latin	fullst	genus -	562
-733	872	substantiv	subst nøyt appell	fl_ub_S fl_be_SA engelsk	fullst	still -	563
-734	873	substantiv	subst nøyt appell	fl_ub_S fl_be_SENE engelsk	fullst	still -	564
-735	874	substantiv	subst nøyt appell	aksent ent_be_EET fl_ub_EER fl_be_EA	fullst svarer til 801	kommuniké -	565
-736	875	substantiv	subst nøyt appell	aksent ent_be_EET fl_ub_EER fl_be_EENE	fullst	kommuniké -	566
-737	876	substantiv	subst nøyt appell	aksent ent_be_EET fl_ub_É fl_be_EA	fullst	jubilé -	567
-738	877	substantiv	subst nøyt appell	aksent ent_be_EET fl_ub_É fl_be_EENE	fullst	jubilé -	568
-739	878	substantiv	subst nøyt appell	omlyd_O>Ø fl_ub_R fl_be_RNE	fullst	flo -	569
-740	879	substantiv	subst nøyt appell	fl_ub_NE fl_be_NENE	bare_fl	gaselløyne	726
-741	880	substantiv	subst nøyt appell	fl_ub_0 fl_be_NE	bare_fl	klær	570
-742	881	substantiv	subst nøyt appell	uten_ent  fl_ub_0 fl_be_A	bare_fl	høns -	739
-743	882	substantiv	subst nøyt appell	uten_ent fl_ub_0 fl_be_ENE	bare_fl	høns -	740
-744	883	substantiv	subst nøyt appell	utskyt_03_04 fl_ub_ER fl_be_ENE	bare_fl	%møbler	745
-745	884	substantiv	subst nøyt appell	utskyt_03_04 fl_ub_ER fl_be_A	bare_fl	%møbler	746
-746	885	substantiv	subst nøyt appell		enkelttilfelle	sekulum	797
-747	886	substantiv	subst nøyt appell		enkelttilfelle	sekulum	798
-748	890	substantiv, ubøy	subst nøyt appell ubøy		ubøyd	norrønt	571
-749	895	substantiv, ubøy	subst nøyt prop		ent_be	Atlanterhavet	572
-750	900	substantiv	subst fem appell		fullst	dør	573
-751	901	substantiv	subst fem appell	med_bindestrek	fullst	abc	574
-752	902	substantiv	subst fem appell	på_E	fullst	kvinne	575
-753	903	substantiv	subst fem appell	fl be A	fullst	ski	800
-754	915	substantiv	subst fem appell	fl_ub_0	fullst	mil	576
-755	916	substantiv	subst fem appell	fl ub uten ending fl be A	fullst	ski	801
-756	920	substantiv	subst fem appell	utskyt_02_03_04	fullst	aksel	577
-757	921	substantiv	subst fem appell	utskyt_02_03_04 fl_ub_0	fullst	alen -	578
-758	922	substantiv	subst fem appell	utskyt_02_03_04 fl_ub_E	fullst	faster -	579
-759	925	substantiv	subst fem appell	forenkl utskyt_02_03_04	fullst	grissel	580
-760	926	substantiv	subst fem appell	forenkl utskyt_02_03_04 ub fl E	fullst	gimmer	660
-761	930	substantiv	subst fem appell	MM	fullst	rem	581
-762	940	substantiv	subst fem appell		fullst enkelttilfelle	datter -	582
-763	941	substantiv	subst fem appell		fullst enkelttilfelle	datter -	583
-764	942	substantiv	subst fem appell	omlyd_O>Ø	fullst enkelttilfelle	mor -	584
-765	943	substantiv	subst fem appell	omlyd_O>Ø	fullst enkelttilfelle	mor -	585
-766	944	substantiv	subst fem appell		fullst enkelttilfelle	søster -	586
-767	945	substantiv	subst fem appell		fullst enkelttilfelle	søster -	587
-768	946	substantiv	subst fem appell	omlyd_Å>Æ fl_ub_R fl_be_RNE	fullst	flå -	588
-769	947	substantiv	subst fem appell	bare_fl	enkelttilfelle	formødrer	743
-770	948	substantiv	subst fem appell	omlyd_O>E	fullst ulike_kons	rong	589
-771	949	substantiv	subst fem appell	omlyd_O>E	fullst like kons	dokk	645
-772	950	substantiv	subst fem appell	omlyd_A>E	fullst like_kons	natt	590
-773	951	substantiv	subst fem appell	omlyd_A>E	fullst ulike_kons	and	591
-774	952	substantiv	subst fem appell	omlyd_O>Ø	fullst	bok	592
-775	953	substantiv	subst fem appell	omlyd_O>Ø fl_ub_R fl_be_RNE	fullst	glo	593
-776	954	substantiv	subst fem appell	omlyd_O>Ø konsfordobling_fl	fullst	rot	594
-777	955	substantiv	subst fem appell	omlyd_Å>Æ	fullst	tåg	595
-778	956	substantiv	subst fem appell	omlyd_Å>Æ J-flyt	fullst	skåk	596
-779	957	substantiv	subst fem appell	omlyd_Å>Æ J-flyt fl_ub_S fl_be_SENE	fullst	gås -	597
-780	959	substantiv	subst fem appell	på_rotvokal omlyd_U>Y fl_ub_R fl_be_RNE	fullst	ku -	598
-781	962	substantiv	subst fem appell	omlyd_Å>E	fullst	hånd -	599
-782	970	substantiv	subst fem appell	på_ER	bare_fl	lappesaker	600
-783	972	substantiv	subst fem appell	fl_ub_0 fl_be_NE	bare_fl	tær	601
-784	990	substantiv, ubøy	subst fem appell ubøy		ubøyd	gaukemess	602
-785	991	substantiv	subst fem appell		bare_ent_be	søta	603
-786	994	substantiv, ubøy	subst prop gen			Jesu	604
-787	995	substantiv, ubøy	subst fem prop			Anne	605
-788	996	substantiv, ubøy	subst prop		vag_genus	Sovjetunionen	606
-789	997	substantiv, ubøy	subst prop		ent_be	Atlasfjella	607
-790	998	substantiv	subst appell		bare_fl_ub	vegne	608
-791	999	substantiv, ubøy	subst appell ubøy		ubøyd	babord	609
+363	45F	pronomen, enkel	pron	objektsform		dem	813
+364	460	pronomen, enkel	pron pers 3 ent hum nom			man	297
+365	461	pronomen, normal	pron pers 3 fl høflig			De	298
+366	462	pronomen, normal	pron pers 3 ent mask hum			han	299
+367	463	pronomen, enkel	pron pers 3 ent mask fem			den	300
+368	464	pronomen, enkel	pron res fl hum			hverandre	301
+369	465	pronomen, enkel	pron pers 3 ent hum			en	640
+370	466	pronomen, enkel	pron sp hum			hvem	302
+371	467	pronomen, enkel	pron sp			hva	303
+372	468	pronomen, enkel	pron sp poss hum			hvis	304
+373	469	pronomen, enkel	pron ent			ingenting	305
+374	470	determinativ	det poss			min	306
+375	472	determinativ	det poss			din	307
+376	474	determinativ	det poss			sin	308
+377	477	determinativ	det poss			vår	315
+378	478	determinativ	det dem			hin	316
+379	479	determinativ	det dem			hin	317
+380	47A	determinativ, enkel	det poss		Kan slås sammen	hans	309
+381	47B	determinativ, enkel	det poss		Kan slås sammen	hennes	310
+382	47C	determinativ, enkel	det poss		Kan slås sammen	dens	311
+383	47D	determinativ, enkel	det poss		Kan slås sammen	dets	312
+384	47E	determinativ, enkel	det poss		Kan slås sammen	deres	313
+385	47F	determinativ, enkel	det poss res		Kan slås sammen	hverandres	639
+386	47G	determinativ, enkel	det poss høflig		Kan slås sammen	Deres	314
+387	480	determinativ, enkel	det dem mask ent			denne	318
+388	481	determinativ, enkel	det dem mask ent			den	319
+389	482	determinativ	det dem			slik	320
+390	483	determinativ	det dem			sånn	321
+391	484	determinativ	det dem			sådan	322
+392	485	determinativ	det kvant	uten_mask/fem		somt	323
+393	486	determinativ	det kvant	ent	også mang går slik	hver	324
+394	487	determinativ	det kvant	uten_nøyt	noe mat/noe gutter	noe	637
+395	488	determinativ	det sp			hvilken	325
+396	489	determinativ	det kvant			noen	326
+397	48A	determinativ, enkel	det dem nøyt ent			dette	327
+398	48B	determinativ, enkel	det dem fl			disse	328
+399	48C	determinativ, enkel	det dem nøyt ent			det	329
+400	48D	determinativ, enkel	det dem fl			de	330
+401	48E	determinativ, enkel	det dem fem ent			denne	629
+402	48F	determinativ, enkel	det dem fem ent			den	630
+403	490	determinativ	det kvant			ingen	331
+404	490A	determinativ	det kvant			ingen	791
+405	491	determinativ, <adj>	det forst <adj>		enkelttilfelle	egen	332
+406	492	determinativ, <adj>	det forst <adj>		enkelttilfelle	eigen	333
+407	493	determinativ	det kvant			all	334
+408	494	determinativ	det kvant	ent		annenhver	335
+409	495	determinativ	det kvant	ent		enhver	336
+410	496	determinativ	det kvant	ent		en	337
+411	497	determinativ	det kvant	fl ubøyelig		begge	338
+412	498	determinativ	det kvant	fl ubøyelig	tallord	to	339
+413	499	determinativ	det kvant	ent		en	340
+414	49A	determinativ, enkel	det forst <adj>			selv	341
+415	49AA	determinativ, <adj>	det forst <adj>		enkelttilfelle	selv	809
+416	49AB	determinativ, <adj>	det forst <adj>		enekltilfelle	sjøl	810
+417	49AC	determinativ, <adj>	det forst <adj>		eneklttilfelle	sjøl	811
+418	49B	determinativ, enkel	det be			selve	342
+419	49C	determinativ	det kvant	ent		halvannen	343
+420	49D	determinativ	det kvant	ent		halvannen	344
+421	49E	determinativ, enkel	det dem be <adj>			samme	345
+422	49F	determinativ, <adj>	det dem <adj>		enkelttilfelle	annen	346
+423	49G	determinativ, <adj>	det dem <adj>		enkelttilfelle	annen	347
+424	49H	determinativ, <adj>	det dem <adj>		enkelttilfelle	annen	348
+425	49I	determinativ	det kvant	ent		én	631
+426	49J	determinativ, enkel	det kvant be <adj>			eneste	632
+427	49K	determinativ, enkel	det kvant be ent			ene	633
+428	49L	determinativ, enkel	det kvant	unormert		no'	635
+429	49M	determinativ	det kvant	uttr med_dobbel_bøying	enkelttilfelle	mang én	751
+430	49N	determinativ	det kvant	uttr med_dobbel_bøying_fem_éi	enkelttilfelle	mang én	752
+431	49P	determinativ	det kvant	uttr med_dobbel_bøying	enkelttilfelle	mang en	753
+432	49Q	determinativ	det kvant	uttr med_dobbel_bøying_fem_ei	enkelttilfelle	mang en	754
+433	49R	determinativ, <adj>	det dem <adj>		enkelttilfelle	annen	808
+434	500	adjektiv	adj	nøytr_T	fullst, m gradbøying	rik	349
+435	501	adjektiv	adj	nøytr_0	fullst, m gradbøying	distré -	684
+436	502	adjektiv	adj	nøytr_TT	fullst, m gradbøying	fri	350
+437	503	adjektiv	adj	nøytr_0 fl_0 be_0	fullst, m gradbøying	distré -	685
+438	504	adjektiv	adj	nøytr_0	fullst, m gradbøying	skjelmsk -	351
+439	505	adjektiv	adj	nøytr_0	fullst	diskre -	683
+440	506	adjektiv	adj	nøytr_TT fl_0 be_0	fullst, m gradbøying	rå -	352
+441	506E	adjektiv	adj	suppletiv	enkelttilfelle m suppl gradbøying	små	788
+442	507	adjektiv	adj	nøytr_T	fullst	nøktern	686
+443	508	adjektiv	adj	nøytr_0 redusertend_sup	fullst på_IG, m gradbøying	kraftig	353
+444	509	adjektiv	adj	nøytr_0		diskré -	687
+445	510	adjektiv	adj	nøytr_T redusertend_komp_sup	fullst, m gradbøying	høg -	354
+446	511	adjektiv	adj	nøytr_TT		valgfri	688
+447	512	adjektiv	adj	nøytr_0 fl_0 be_0	fullst, m gradbøying	ru -	355
+448	513	adjektiv	adj	ubøyd	ubøyd	utdanna -	356
+449	514	adjektiv	adj	på_E nøytr_0 fl_0 be_0	fullst, m gradbøying	nøye	357
+450	515	adjektiv	adj <ordenstall>	ubøyd		første	358
+451	516	adjektiv	adj	sup_ub_0 sup_be_E	bare_sup	akterst	359
+452	517	adjektiv	adj	nøytr_0 fl_0 be_0		diskré	689
+453	518	adjektiv	adj	nøytr_0 	fullst	forbundsvis, dansk, beveget	690
+454	519	adjektiv	adj		enkelttilfelle, m suppl gradbøying	verre	638
+455	520	adjektiv	adj	nøytr_-T	fullst, m gradbøying	øde -	360
+456	521	adjektiv	adj	nøytr_TT fl_0 be_0		mørkeblå	691
+457	522	adjektiv	adj		enkelttilfelle, m gradbøying	jamn	361
+458	523	adjektiv	adj			mannjamn	714
+459	524	adjektiv	adj	nøytr_-T	fullst, m gradbøying	frekk	362
+460	526	adjektiv	adj	vokalskifte_nøytr nøytr_T	fullst, m gradbøying	feit -	363
+461	527	adjektiv	adj	nøytr_-T		øde	694
+462	528	adjektiv	adj	nøytr_-T		kriminell	695
+463	529	adjektiv	adj	vokalskifte_nøytr nøytr_T		smellfeit	696
+464	530	adjektiv	adj	på_ET utskyt_fl  utskyt_be fl_NE be_NE	fullst av partisipp på E, m gradbøying	tettskrevet	364
+465	531	adjektiv	adj	på_ET utskyt_fl  utskyt_be fl_NE be_NE		nedskrevet	697
+466	532	adjektiv	adj	på_ET forenkl utskyt_fl  utskyt_be fl_NE be_NE	fullst av partisipp på ET, m gradbøying	nedfrosset	365
+467	533	adjektiv	adj	på_ET forenkl utskyt_fl  utskyt_be fl_NE		nedfrosset	698
+468	534	adjektiv	adj	på_ET utskyt_fl  utskyt_be fl_DE be_DE	fullst, m gradbøying	helhjertet -	366
+469	535	adjektiv	adj	på_ET utskyt_fl  utskyt_be fl_DE be_DE		helhjertet	699
+470	540	adjektiv	adj	på_EN utskyt_fl  utskyt_be fl_NE be_NE	fullst, m gradbøying	uskreven	367
+471	541	adjektiv	adj	på_EN utskyt_fl  utskyt_be fl_NE be_NE		uskreven	700
+472	542	adjektiv	adj	på_EN utskyt_fl  utskyt_be fl_TE be_TE	fullst, m gradbøying	bortløpen -	368
+473	543	adjektiv	adj	på_EN utskyt_fl  utskyt_be fl_TE be_TE		bortløpen	701
+474	544	adjektiv	adj	på_EN utskyt_fl  utskyt_be fl_NE be_NE nøyt_ENT	fullst, m gradbøying	vrien -	369
+475	545	adjektiv	adj	på_EN utskyt_fl  utskyt_be fl_NE be_NE nøyt_ENT		vrien	702
+476	546	adjektiv	adj	på_EN forenkl utskyt_fl  utskyt_be fl_NE be_NE	fullst av partisipp på EN, m gradbøying	viderekommen	370
+477	547	adjektiv	adj	på_EN forenkl utskyt_fl  utskyt_be fl_NE be_NE		viderekommen	703
+478	548	adjektiv	adj		enkelttilfelle, m gradbøying	maken -	371
+479	549	adjektiv	adj		enkelttilfelle	maken	704
+480	560	adjektiv	adj	på_EL_EN_ER utskyt	fullst, m gradbøying	simpel	372
+481	561	adjektiv	adj	på_EL_EN_ER utskyt		singel	706
+482	562	adjektiv	adj	på_EL_EN_ER utskyt forenkl	fullst, m gradbøying	ekkel	373
+483	563	adjektiv	adj	på_EL_EN_ER utskyt forenkl		dobbel	705
+484	570	adjektiv	adj	MM	fullst også for liketil og likedan, m gradbøying	tam	374
+485	571	adjektiv	adj	MM		hestedum	707
+486	572	adjektiv	adj	nøytr_0 konsfordobling_NN	fullst, m gradbøying	likedan -	375
+487	573	adjektiv	adj	nøytr_0 konsfordobling_NN		likedan	708
+488	574	adjektiv	adj	på_SOM redusertend_sup	fullst, m gradbøying	tvilsom	376
+489	575	adjektiv	adj	på_IS utskyt_fl utskyt_be	fullst, m gradbøying	ymis	377
+490	576	adjektiv	adj	på_IS utskyt_fl utskyt_be		ymis	709
+491	600	adjektiv	adj	omlyd_A>E	fullst enkelttilfelle, m gradbøying	lang	378
+492	601	adjektiv	adj	omlyd_A>E	fullst unorm, m gradbøying	lang	619
+493	602	adjektiv	adj	omlyd_O>Ø	fullst enkelttilfelle, m gradbøying	stor	379
+494	604	adjektiv	adj	suppletiv	fullst, m suppl gradbøying	god	380
+495	605	adjektiv	adj	suppletiv	fullst, m suppl gradbøying	ond	644
+496	606	adjektiv	adj	suppletiv	fullst, m suppl gradbøying	vond -	381
+497	607	adjektiv	adj	suppletiv	samme komp som OND 606, m suppl gradbøying	ille	382
+498	608	adjektiv	adj	omlyd_O>Ø	fullst enkelttilfelle, m gradbøying	grov -	383
+499	609	adjektiv	adj	suppletiv	fullst, med suppl gradbøying, enkelttilfelle	bra	799
+500	610	adjektiv	adj	suppletiv, komp_med_ E	enkelttilfelle, m suppl gradbøying	mange	384
+501	611	adjektiv	adj	suppletiv, komp_uten_ E	enkelttilfelle, m suppl gradbøying	fler	780
+502	612	adjektiv	adj	omlyd_U>Y	fullst, m gradbøying	tung -	385
+503	620	adjektiv	adj	suppletiv	fullst enkelttilfelle jf 621, m suppl gradbøying	gammel	386
+504	621	adjektiv	adj	suppletiv	fullst enkelttilfelle jf 620, m suppl gradbøying 	gammal	387
+505	622	adjektiv	adj		enkelttilfelle, m gradbøying	nær -	388
+506	623	adjektiv	adj	uten gradbøy		eldgammal	710
+507	624	adjektiv	adj	uten gradbøy		eldgammel	711
+508	630	adjektiv	adj	suppletiv	fullst enkelttilfelle, m gradbøying	mye	389
+509	631	adjektiv	adj	uten_positiv	Enkeltilfelle m gradbøy	fler	779
+510	632	adjektiv	adj	omlyd_Å>Æ	enkelttilfelle, m gradbøying	få	390
+511	633	adjektiv	adj	Uten_gradbøying	enkelttilfelle	annen	796
+512	634	adjektiv	adj	suppletiv_bøyning	enkelttilfelle	dårlig	804
+513	640	adjektiv, adverbtype	adv		enkelttilfelle, m gradbøying	lenge	715
+514	641	adjektiv, adverbtype	adv		ordinær, m gradbøying	fort	716
+515	642	adjektiv, adverbtype	adv		enkelttilfelle, m gradbøying	lenge	717
+516	643	adjektiv, adverbtype	adv	på_E	m gradbøying	ofte	718
+517	644	adjektiv, adverbtype	adv	suppletiv	m gradbøying	gjerne	719
+518	645	adjektiv, adverbtype	adv		enkelttilfelle, m gradbøying	titt	720
+519	646	adjektiv, adverbtype	adv		enkelttilfelle, m gradbøying	nær	721
+520	647	adjektiv, adverbtype	adv		enkelttilfelle, m gradbøying	langt	722
+521	648	adjektiv, adverbtype	adv	redusertend_sup	på_IG, m gradbøying	nødig	723
+522	649	adjektiv, adverbtype	adv	Adj_til_Adv_med_T	ordinær, m gradbøying	snart	755
+523	650	adjektiv	adj	uten_positiv	m gradbøying	undre	391
+524	652	adjektiv	adj	uten_positiv	m gradbøying	øvre -	392
+525	654	adjektiv	adj	uten_positiv	m gradbøying	ytre -	393
+526	655	adjektiv	adj	uten_positiv	m gradbøying	engere	781
+527	656	adjektiv	adj	uten_positiv redusertend_komp_sup	enkelttilfelle, m gradbøying	indre -	394
+528	657	adjektiv	adj	uten_positiv redusertend_komp_sup	enkelttilfelle, m gradbøying	indre -	395
+529	664	adjektiv	adj		enkelttilfelle	emeritus	396
+530	665	adjektiv, ulik m/f	adj	fem_A, nøytr_LITE, be_LILLE	fullst, enkelttilfelle, m gradbøying	liten -	397
+531	665A	adjektiv, ulik m/f	adj	fem_EN, nøytr_LITE, be_LILLE	fullst, enkelttilfelle, m gradbøying	liten -	760
+532	666	adjektiv, ulik m/f	adj	fem_A, nøytr_SMÅTT, be_LILLE	fullst, enkelttilfelle, m gradbøying	liten -	398
+533	666A	adjektiv, ulik m/f	adj	fem_EN, nøytr_SMÅTT, be_LILLE	fullst, enkelttilfelle, m gradbøying	liten -	761
+534	667	adjektiv, ulik m/f	adj	fem_A, nøytr_LITE, be_LILLE		ørliten -	712
+535	667A	adjektiv, ulik m/f	adj	fem_EN, nøytr_LITE, be_LILLE		ørliten -	762
+536	668	adjektiv, ulik m/f	adj	fem_A, nøytr_SMÅTT, be_LILLE		ørliten -	713
+537	668A	adjektiv, ulik m/f	adj	fem_EN, nøytr_SMÅTT, be_LILLE		ørliten -	763
+538	669	adjektiv, ulik m/f	adj	fem_A, nøytr_LITE, be_VESLE	fullst, enkelttilfelle m gradbøying	liten -	764
+539	669A	adjektiv, ulik m/f	adj	fem_A, nøytr_SMÅTT, be_VESLE	fullst, enkelttilfelle, m gradbøying	liten -	768
+540	670	adjektiv, ulik m/f	adj	fem_EN, nøytr_LITE, be_VESLE	fullst, enkelttilfelle, m gradbøying	liten -	765
+541	670A	adjektiv, ulik m/f	adj	fem_EN, nøytr_SMÅTT, be_VESLE	fullst, enkelttilfelle, m gradbøying	liten -	769
+542	671	adjektiv, ulik m/f	adj	fem_A, nøytr_LITE, be_VESLE		ørliten -	766
+543	671A	adjektiv, ulik m/f	adj	fem_A, nøytr_SMÅTT, be_VESLE		ørliten -	770
+544	672	adjektiv, ulik m/f	adj	fem_EN, nøytr_LITE, be_VESLE		ørliten -	767
+545	672A	adjektiv, ulik m/f	adj	fem_EN, nøytr_SMÅTT, be_VESLE		ørliten -	771
+546	674	adjektiv, adverbtype	adj <adv>		enkelttilfelle	lenge -	636
+547	675	adjektiv, adverbtype	adj <adv>	ordinær	m gradbøying	fort	399
+548	676	adjektiv, adverbtype	adj <adv>		enkelttilfelle, m gradbøying	lenge -	400
+549	677	adjektiv, adverbtype	adj <adv>	på_E	m gradbøying	ofte	401
+550	678	adjektiv, adverbtype	adj <adv>	suppletiv	m gradbøying	gjerne	402
+551	679	adjektiv, adverbtype	adj <adv>		enkelttilfelle, m gradbøying	titt	403
+552	680	adjektiv, adverbtype	adv		enkelttilfelle	ille	802
+553	681	adjektiv, adverbtype	adv		enkelttilfelle	gjene	803
+554	686	adjektiv, adverbtype	adj <adv>		enkelttilfelle, m gradbøying	nær -	405
+555	689	adjektiv, adverbtype	adj <adv>		enkelttilfelle, m gradbøying	langt	406
+556	690	adjektiv, adverbtype	adj <adv>	redusertend_sup, m gradbøying	på_IG	nødig	407
+557	691	preposisjon	prep			av	408
+558	692	konjunksjon	konj			og	409
+559	693	subjunksjon	sbu			at	410
+560	694	interjeksjon	interj			hysj	411
+561	695	adverb	adv	ubøyelig		akkurat	412
+562	696	infinitivsmerke	inf-merke			å	413
+563	697	konjunksjon	konj <adv>			både	414
+564	698	subjunksjon	sbu <spørreartikkel>			mon	415
+565	699	konjunksjon	CLB konj			og	620
+566	700	substantiv	subst mask appell		fullst	bil	416
+567	701	substantiv	subst mask appell	med_bindestrek	fullst	A	417
+568	702	substantiv	subst mask appell	på_E	fullst	time	418
+569	703	substantiv	subst mask appell	aksent	fullst svarer til 700	komité	419
+570	704	substantiv	subst mask appell	fl ub uten ending fl be A	fullst	feil	658
+571	705	substantiv	subst mask appell	på_OS fl_ub_--ER fl_be_--ENE gresk	fullst enkelttilfelle	daktylos	420
+572	706	substantiv	subst mask appell	på_OS fl_ub_-ER fl_be_-ENE gresk	fullst enkelttilfelle	heros	421
+573	707	substantiv	subst mask appell	ub en É%	fullst	hellebardér	659
+574	708	substantiv	subst mask appell	uten plural	regulær sg	EDB	805
+575	709	substantiv	subst mask appell	fl_ub_E tysk	fullst enkelttilfelle	bundsforvant	642
+576	710	substantiv	subst mask appell	uten plural	regulær singular	alzheimer	806
+577	711	substantiv	subst mask appell	på_ER fl_ub_ER fl_be_NE	fullst	skriver -	422
+578	712	substantiv	subst mask appell	på_ER fl_ub_E	fullst	skriver -	423
+579	713	substantiv	subst mask appell	på_ER fl_ub_0	fullst	meter	424
+580	714	substantiv	subst mask appell	på_RA_fl_ub_RE_fl_be_RENE	fullst enkelttilfelle	ginstra (gyvel)	759
+581	715	substantiv	subst mask appell	fl_ub_0	fullst	ting	425
+582	716	substantiv	subst mask appell	på_E fl_ub_0	fullst	lire	426
+583	717	substantiv	subst mask appell	på_ER utskyt_03_04	fullst	seier	427
+584	718	substantiv	subst mask appell	med_bindestrek fl_ub_0	fullst	pH	648
+585	719	substantiv	subst mask appell	på_RA_fl_ub_RER_fl_be_RENE	fullst enkelttilfelle	ginstra (gyvel)	758
+586	720	substantiv	subst mask appell	på_EL_EN_ER utskyt_03_04	fullst	regel	428
+587	721	substantiv	subst mask appell	på_EL_EN_ER forenkl utskyt_03_04	fullst	tittel	429
+588	722	substantiv	subst mask appell	på_EL_EN_ER utskyt_04 fl_ub_0	fullst	yngel	430
+589	723	substantiv	subst mask appell	på_EL_EN_ER utskyt_03_04 fl_ub_0 fl_be_A	fullst	forelder -	431
+590	724	substantiv	subst mask appell	på_EL_EN_ER utskyt_03_04 fl_ub_0 fl_be_ENE	fullst	forelder -	432
+591	725	substantiv	subst mask appell	MM	fullst	kam	433
+592	726	substantiv	subst mask appell	på_AR MM utskyt_03_04	fullst	hammar	434
+593	727	substantiv	subst mask appell	utskyt_03_04	fullst	jotun -	435
+594	728	substantiv	subst mask appell	utskyt_02_03_04	fullst	jotun -	436
+595	729	substantiv	subst mask appell	på_AR utskyt_03_04	fullst	navar -	437
+596	730	substantiv	subst mask appell	på_US ent_be_--EN fl_ub_--ER fl_be_--ENE latin	fullst	dekanus	438
+597	731	substantiv	subst mask appell	på_IS ent_be_--EN fl_ub_--ER fl_be_--ENE latin	fullst	amanuensis	439
+598	732	substantiv	subst mask appell	på_IS fl_ub_-IDER fl_be_-IDENE latin	fullst	apsis -	440
+599	733	substantiv	subst mask appell	på_UM fl_ub_--ER fl_be_--ENE latin	fullst	krysantemum -	441
+600	734	substantiv	subst mask appell	på_A fl_ub_-ER fl_be_-ENE latin	fullst	begonia -	442
+601	735	substantiv	subst mask appell	på_US fl_ub_--IER fl_be_--IENE latin	fullst	dinosaurus -	443
+602	736	substantiv	subst mask appell	på_IUM fl_ub_--ER fl_be_--ENE latin	fullst	geranium -	444
+603	737	substantiv	subst mask appell	på_UM fl_ub_--A fl_be_--AENE latin	fullst	datum -	445
+604	738	substantiv	subst mask appell	på_IS fl_ub_-ER fl_be_-ENE latin	fullst enkelttilfelle	taksis -	446
+605	739	substantiv	subst mask appell	på_IS fl_ub_--ER fl_be_--ENE latin	fullst	dosis -	447
+606	740	substantiv	subst mask appell	på_I fl_ub_M fl_be_MENE hebraisk	fullst	sefardi	448
+607	741	substantiv	subst mask appell	fl_ub_ER fl_be_A	fullst unormert	gutt	618
+608	742	substantiv	subst mask appell	utskyt_03_04 forenkl fl_ub_E	fullst unormert	sommer -	627
+609	747	substantiv	subst nøyt appell	fl_ub_S_-0_fl_b_S_-ENE_fransk	fullst enkelttilfelle	enfant terrible	793
+610	748	substantiv	subst mask appell	på_E fl_ub_S	fullst	centime -	449
+611	749	substantiv	subst mask appell	på_ERE fl_be_ERNE	bare_fl	kynnere	727
+612	750	substantiv	subst mask appell	ON>ES_03_04 fl_ub_S fl_be_SENE fransk	fullst enkelttilfelle	monsieur	792
+613	751	substantiv	subst mask appell	på_O fl_ub_-I fl_be_-IENE italiensk	fullst	konto -	450
+614	752	substantiv	subst mask appell	fl_ub_S_--0_fl_b_S_--ENE_fransk	fullst enkelttilfelle	%affaires	789
+615	753	substantiv	subst mask appell	på_US fl_ub_--ER fl_be_--ENE	fullst	auksjonarius	451
+616	754	substantiv	subst mask appell	fl_ub_R fl_be_RNE	fullst	sko -	452
+617	755	substantiv	subst mask appell	på_IO fl_ub_-ER fl_be_-ENE italiensk	fullst	impresario -	453
+618	756	substantiv	subst mask appell	på_US fl_ub_--I fl_be_--IENE latin	fullst	modus	454
+619	757	substantiv	subst mask appell	på_US fl_ub_--ERA fl_be_--ERAENE latin	fullst enkelttilfelle	genus -	455
+620	759	substantiv	subst mask appell	på_KS fl_ub_--GER fl_be_--GENE gresk	fullst enkelttilfelle	falanks -	456
+621	760	substantiv	subst mask appell	omlyd_O>Ø på_E	fullst enkelttilfelle	bonde	457
+622	761	substantiv	subst mask appell	omlyd_O>Ø fl_ub_-DRE fl_be_DRENE	fullst enkelttilfelle	bror	458
+623	762	substantiv	subst mask appell	omlyd_A>E fl_ub_-DRE fl_be_DRENE	fullst enkelttilfelle	far	459
+624	763	substantiv	subst mask appell	omlyd_O>Ø konsfordobling_fl	fullst	fot	460
+625	764	substantiv	subst mask appell	omlyd_A>E fl_ub_0	fullst enkelttilfelle	mann	461
+626	765	substantiv	subst mask appell	omlyd_A>E	fullst enkelttilfelle	stad	462
+627	766	substantiv	subst mask appell	omlyd_A>E	fullst	stand	463
+628	767	substantiv	subst mask appell	omlyd_Å>Æ	fullst	ås	464
+629	768	substantiv	subst mask appell	omlyd_A>E fl_ub_--RE fl_be_--RENE	fullst enkelttilfelle	fader	465
+630	769	substantiv	subst mask appell	omlyd_O>Ø	fullst	hov	466
+631	76A	substantiv	subst mask appell	omlyd_O>E	fullst enkelttilfelle	voss	467
+632	76B	substantiv	subst mask appell	omlyd_O>Ø utskyt_03_04 fl_ub_E	fullst enkelttilfelle	broder	468
+633	76C	substantiv	subst mask appell	omlyd_O>Ø utskyt_03_04 fl_ub_E	fullst enkelttilfelle	moder -	469
+634	76D	substantiv	subst mask appell	omlyd_O>Ø utskyt_03_04	fullst enkelttilfelle	moder -	470
+635	76E	substantiv	subst mask appell	omlyd_O>Ø fl_ub_-DRE fl_be_-DRENE	fullst enkelttilfelle	mor -	471
+636	76F	substantiv	subst mask appell	omlyd_O>Ø fl_ub_-DRER fl_be_-DRENE	fullst enkelttilfelle	mor -	472
+637	76G	substantiv	subst mask appell	omlyd_A>Ø fl_ub_---RE fl_be_---RENE	fullform	datter -	473
+638	76H	substantiv	subst mask appell	omlyd_A>Ø fl_ub_---RER fl_be_---RENE	fullst enkelttilfelle	datter -	474
+639	76I	substantiv	subst mask appell	omlyd_Å>Æ fl_ub_R fl_be_RNE	fullst	flå -	475
+640	76J	substantiv	subst mask appell	omlyd_O>E	fullst ulike_kons	rong -	476
+641	76K	substantiv	subst mask appell	omlyd_A>E	fullst like_kons	natt -	477
+642	76L	substantiv	subst mask appell	omlyd_O>Ø fl_ub_R fl_be_RNE	fullst	glo -	478
+643	76M	substantiv	subst mask appell	omlyd_Å>Æ J-flyt 	fullst	skåk -	479
+644	76N	substantiv	subst mask appell	omlyd_Å>Æ J-flyt fl_ub_S fl_be_SENE	fullst	gås -	480
+645	76O	substantiv	subst mask appell	omlyd_U>Y fl_ub_R fl_be_RNE	fullst enkelttilfelle	ku -	481
+646	76P	substantiv	subst mask appell	omlyd_Å>E	fullst	hånd -	482
+647	770	substantiv	subst mask appell	fl_ub_S fl_be_ENE engelsk	fullst	fan	483
+648	771	substantiv	subst mask appell	omlyd_Å>Æ	fullst like_kons	tått -	650
+649	772	substantiv	subst mask appell	fl_ub_S fl_be_SENE engelsk	fullst	slide	484
+650	773	substantiv	subst mask appell	på_E fl_ub_S fl_be_NE engelsk	fullst	mile	485
+651	774	substantiv	subst mask appell	på_ON fl_ub_S engelsk	bare_ub	displaced_person	486
+652	775	substantiv	subst mask appell	på_Y fl_ub_-IES engelsk	fullst	royalty -	487
+653	776	substantiv	subst mask appell	på_MAN fl_ub_--MEN engelsk	bare_ub	gentleman	488
+654	777	substantiv	subst appell	på_S fl_be_ENE engelsk	bare_fl	flaps	489
+655	778	substantiv	subst mask appell	på_CH fl_ub_ES engelsk	fullst	inch	490
+656	779	substantiv	subst mask appell	på_NY fl_ub_--CE fl_be_--CENE engelsk	fullst enkelttilfelle	penny -	491
+657	780	substantiv	subst mask appell	på_ER fl_be_-NE latin	bare_fl jf. 781	formalier	492
+658	781	substantiv	subst mask appell	på_IA fl_be_-ENE latin	bare_fl jf. 780	formalia	493
+659	782	substantiv	subst mask appell	PÅ_E fl_be_NE	bare_fl	forfedre	494
+660	783	substantiv	subst mask appell	på_IA fl_ub_-ER fl_be_-ENE latin	fullst	promemoria - 	649
+661	784	substantiv	subst mask appell	på_EN  ub_NE fl_ub_NE fl_be_NE	fullst	kristen	741
+662	785	substantiv	subst mask appell	på_I  italiensk	bare_fl	carbonari	496
+663	786	substantiv	subst mask appell	på_O fl_ub_-I italiensk	bare_ub jf. 751	basso - 	497
+664	787	substantiv	subst appell	på_ER fl_be_-ENE	bare_fl ikke kjonn	aksessoar	673
+665	788	substantiv	subst mask appell	ub_fl_pa_i	fullst	ringgit	674
+666	789	substantiv	subst appell	bare_ub	enkelttilfelle	ars	734
+667	790	substantiv, ubøy	subst mask appell ubøy		ubøyd	barsok	498
+668	791	substantiv	subst mask appell		bare_ent_be	søten	499
+669	792	substantiv	subst mask appell	på_OR plur_ES bplur_ES latin	fullst enkelttilfelle	frater -	812
+670	795	substantiv, ubøy	subst mask prop			Per	500
+671	800	substantiv	subst nøyt appell	fl_ub_0 fl_be_A	fullst	tak -	501
+672	801	substantiv	subst nøyt appell	fl_ub_ER fl_be_A	fullst	granul -	502
+673	802	substantiv	subst nøyt appell	på_E fl_ub_R fl_be_A	fullst	styre -	503
+674	803	substantiv	subst nøyt appell	med_bindestrek fl_ub_0 fl_be_A	fullst	OL -	504
+675	804	substantiv	subst nøyt appell	på_E fl_ub_E fl_be_A	fullst	løyve -	505
+676	805	substantiv	subst nøyt appell	med_bindestrek fl_ub_ER fl_be_ENE	fullst	PM -	506
+677	806	substantiv	subst nøyt appell	med_bindestrek fl_ub_ER fl_be_A	fullst	CV -	672
+678	807	substantiv	subst nøyt appell	på_ER fl_ub_0 fl_be_NE	fullst	pulver	772
+679	808	substantiv	subst nøyt appell	utskyt_04 fl_ub_0 fl_be_ENE	fullst	søsken -	507
+680	809	substantiv	subst nøyt appell		enkelttilfelle	øye -	508
+681	810	substantiv	subst nøyt appell	fl_ub_0 fl_be_ENE	fullst	tak -	509
+682	811	substantiv	subst nøyt appell	fl_ub_ER fl_be_ENE	fullst	granul -	510
+683	812	substantiv	subst nøyt appell	på_E fl_ub_R fl_be_NE	fullst	styre -	511
+684	813	substantiv	subst nøyt appell	med_bindestrek fl_ub_0 fl_be_ENE	fullst	OL -	512
+685	814	substantiv	subst nøyt appell	på_E fl_ub_0 fl_be_NE	fullst	løyve -	513
+686	815	substantiv	subst nøyt appell	utskyt_03_04 fl_ub_0 fl_be_A	fullst	orgel -	514
+687	816	substantiv	subst nøyt appell	utskyt_03_04 fl_ub_0 fl_be_ENE	fullst	orgel -	515
+688	817	substantiv	subst nøyt appell	utskyt_03_04 fl_ub_ER fl_be_A	fullst	krangel -	516
+689	818	substantiv	subst nøyt appell	utskyt_03_04 fl_ub_ER fl_be_ENE	fullst	krangel -	517
+690	819	substantiv	subst nøyt appell	utskyt_02_03_04 fl_ub_0 fl_be_A	fullst	rabalder -	518
+691	820	substantiv	subst nøyt appell	utskyt_02_03_04 fl_ub_0 fl_be_ENE	fullst	rabalder -	519
+692	821	substantiv	subst nøyt appell	utskyt_02_03_04 fl_ub_ER fl_be_A	fullst	orgel -	520
+693	822	substantiv	subst nøyt appell	utskyt_02_03_04 fl_ub_ER fl_be_ENE	fullst	orgel -	521
+694	823	substantiv	subst nøyt appell	utskyt_03_04 fl_ub_E fl_be_A	fullst	alter -	522
+695	824	substantiv	subst nøyt appell	utskyt_02_03_04 fl_ub_E fl_be_A	fullst	alter -	523
+696	825	substantiv	subst nøyt appell	utskyt_02_03_04 fl_ub_E fl_be_ENE	fullst	alter -	524
+697	826	substantiv	subst nøyt appell	utskyt_03_04 fl_ub_E fl_be_A	fullst	beger -	525
+698	827	substantiv	subst nøyt appell	utskyt_03_04 fl_ub_E fl_be_ENE	fullst	beger -	526
+699	828	substantiv	subst nøyt appell	fl_ub_E fl_be_NE	fullst	pulver -	527
+700	829	substantiv	subst nøyt appell		enkelttilfelle	tympanon	653
+701	830	substantiv	subst nøyt appell	MM fl_be_A	fullst	rom -	528
+702	831	substantiv	subst nøyt appell	MM fl_be_ENE	fullst	rom -	529
+703	832	substantiv	subst nøyt appell	MM fl_ub_ER fl_be_A	fullst	medlem -	530
+704	833	substantiv	subst nøyt appell	MM fl_ub_ER fl_be_ENE	fullst	medlem -	531
+705	834A	substantiv	subst nøyt appell	LL fl_be_A	fullst	farvel -	775
+706	834B	substantiv	subst nøyt appell	LL fl_be_ENE	fullst	farvel - 	776
+707	835	substantiv	subst nøyt appell	forenkl utskyt_03_04 fl_ub_0 fl_be_A	fullst	middel -	532
+708	836	substantiv	subst nøyt appell	forenkl utskyt_03_04 fl_ub_0 fl_be_ENE	fullst	middel -	533
+709	837	substantiv	subst nøyt appell	forenkl utskyt_02_03_04 fl_ub_ER fl_be_A	fullst	middel -	534
+710	838	substantiv	subst nøyt appell	forenkl utskyt_02_03_04 fl_ub_ER fl_be_ENE	fullst	middel -	535
+711	839	substantiv	subst nøyt appell	forenkl utskyt_02_03_04 fl_ub_E fl_be_A	fullst	gitter -	536
+712	840	substantiv	subst nøyt appell	forenkl utskyt_02_03_04 fl_ub_E fl_be_ENE	fullst	gitter -	537
+713	841	substantiv	subst nøyt appell	forenkl utskyt_03_04 fl_ub_E fl_be_A	fullst	kammer -	538
+714	842	substantiv	subst nøyt appell	forenkl utskyt_03_04 fl_ub_E fl_be_ENE	fullst	kammer -	539
+715	843	substantiv	subst nøyt appell	forenkl utskyt_03_04 fl_ub_ER fl_be_A	fullst	trippel -	540
+716	844	substantiv	subst nøyt appell	forenkl utskyt_03_04 fl_ub_ER fl_be_ENE	fullst	trippel -	541
+717	845	substantiv	subst nøyt appell	på_ER fl_ub_E fl_be_NE engelsk	fullst	water -	651
+718	846	substantiv	subst nøyt appell	forenkl utskyt_03_04 fl_ub_0 fl_be_A	fullst	fikkel	654
+719	847	substantiv	subst nøyt appell	forenkl utskyt_03_04 fl_ub_0 fl_be_A	fullst	fikkel	655
+720	848	substantiv	subst nøyt appell	fl_ub_ER fl_be_ENE	bare_fl	gaselløyer	724
+721	849	substantiv	subst nøyt appell	fl_ub_ER fl_be_A	bare_fl	gaselløyer	725
+722	850	substantiv	subst nøyt appell	på_UM ent_be_ET fl_ub_--A fl_be_--AENE latin	fullst	maskulinum -	542
+723	851	substantiv	subst nøyt appell	på_UM ent_be_--ET fl_ub_--ER fl_be_--A latin	fullst	maskulinum -	543
+724	852	substantiv	subst nøyt appell	på_UM ent_be_--ET fl_ub_--ER fl_be_--ENE latin	fullst	maskulinum -	544
+725	853	substantiv	subst nøyt appell	på_UM ent_be_ET fl_ub_--E fl_be_--A	fullst	monstrum -	545
+726	854	substantiv	subst nøyt appell	på_UM ent_be_ET fl_ub_--E fl_be_--ENE latin	fullst	monstrum -	546
+727	855	substantiv	subst nøyt appell	på_UM ent_be_--ET fl_ub_--E fl_be_--A latin	fullst	monstrum -	547
+728	856	substantiv	subst nøyt appell	på_UM ent_be_--ET fl_ub_--E fl_be_--ENE latin	fullst	monstrum -	548
+729	857	substantiv	subst nøyt appell	på_UM ent_be_ET fl_ub_--ER fl_be_--A latin	fullst	verbum -	549
+730	858	substantiv	subst nøyt appell	på_UM ent_be_ET fl_ub_--ER fl_be_--ENE latin	fullst	verbum -	550
+731	859	substantiv	subst nøyt appell	på_UM ent_be_--ET fl_ub_--A fl_be_--AENE latin	fullst	metrum -	646
+732	860	substantiv	subst nøyt appell	på_ER fl_be_NE engelsk	fullst	cover -	551
+733	861	substantiv	subst nøyt appell	på_EN fl_ub_--INA fl_be_--INAENE latin	fullst	omen -	552
+734	862	substantiv	subst nøyt appell	fl_ub_IER fl_be_IENE latin	fullst	animal -	553
+735	863	substantiv	subst nøyt appell	på_O fl_ub_-I fl_be_-IENE italiensk	fullst	divertimento -	554
+736	864	substantiv	subst nøyt appell	på_IA fl_ub_-ER fl_be_-ENE latin	fullst	gloria -	555
+737	865	substantiv	subst nøyt appell	omlyd_E>Æ fl_ub_R fl_be_RNE	fullst	kne -	556
+738	866	substantiv	subst nøyt appell	på_US fl_ub_--ORA fl_be_--ORAENE latin	fullst	tempus -	557
+739	867	substantiv	subst nøyt appell	på_US fl_ub_--ER fl_be_--ENE latin	fullst	kursus	558
+740	868	substantiv	subst nøyt appell	på_ON fl_ub_--A fl_be_--AENE gresk	fullst	leksikon -	559
+741	869	substantiv	subst nøyt appell	på_ON ent_be_--ET fl_ub_--ER  fl_be_--A gresk	fullst	symposion -	560
+742	870	substantiv	subst nøyt appell	på_ON ent_be_--ET fl_ub_--ER fl_be_--ENE gresk	fullst	symposion -	561
+743	871	substantiv	subst nøyt appell	på_US fl_ub_--ERA fl_be_--ERAENE latin	fullst	genus -	562
+744	872	substantiv	subst nøyt appell	fl_ub_S fl_be_SA engelsk	fullst	still -	563
+745	873	substantiv	subst nøyt appell	fl_ub_S fl_be_SENE engelsk	fullst	still -	564
+746	874	substantiv	subst nøyt appell	aksent ent_be_EET fl_ub_EER fl_be_EA	fullst svarer til 801	kommuniké -	565
+747	875	substantiv	subst nøyt appell	aksent ent_be_EET fl_ub_EER fl_be_EENE	fullst	kommuniké -	566
+748	876	substantiv	subst nøyt appell	aksent ent_be_EET fl_ub_É fl_be_EA	fullst	jubilé -	567
+749	877	substantiv	subst nøyt appell	aksent ent_be_EET fl_ub_É fl_be_EENE	fullst	jubilé -	568
+750	878	substantiv	subst nøyt appell	omlyd_O>Ø fl_ub_R fl_be_RNE	fullst	flo -	569
+751	879	substantiv	subst nøyt appell	fl_ub_NE fl_be_NENE	bare_fl	gaselløyne	726
+752	880	substantiv	subst nøyt appell	fl_ub_0 fl_be_NE	bare_fl	klær	570
+753	881	substantiv	subst nøyt appell	uten_ent  fl_ub_0 fl_be_A	bare_fl	høns -	739
+754	882	substantiv	subst nøyt appell	uten_ent fl_ub_0 fl_be_ENE	bare_fl	høns -	740
+755	883	substantiv	subst nøyt appell	utskyt_03_04 fl_ub_ER fl_be_ENE	bare_fl	%møbler	745
+756	884	substantiv	subst nøyt appell	utskyt_03_04 fl_ub_ER fl_be_A	bare_fl	%møbler	746
+757	885	substantiv	subst nøyt appell		enkelttilfelle	sekulum	797
+758	886	substantiv	subst nøyt appell		enkelttilfelle	sekulum	798
+759	889	substantiv	subst nøyt appell	uten plural	regulær singular	bor	807
+760	890	substantiv, ubøy	subst nøyt appell ubøy		ubøyd	norrønt	571
+761	895	substantiv, ubøy	subst nøyt prop		ent_be	Atlanterhavet	572
+762	900	substantiv	subst fem appell		fullst	dør	573
+763	901	substantiv	subst fem appell	med_bindestrek	fullst	abc	574
+764	902	substantiv	subst fem appell	på_E	fullst	kvinne	575
+765	903	substantiv	subst fem appell	fl be A	fullst	ski	800
+766	915	substantiv	subst fem appell	fl_ub_0	fullst	mil	576
+767	916	substantiv	subst fem appell	fl ub uten ending fl be A	fullst	ski	801
+768	920	substantiv	subst fem appell	utskyt_02_03_04	fullst	aksel	577
+769	921	substantiv	subst fem appell	utskyt_02_03_04 fl_ub_0	fullst	alen -	578
+770	922	substantiv	subst fem appell	utskyt_02_03_04 fl_ub_E	fullst	faster -	579
+771	925	substantiv	subst fem appell	forenkl utskyt_02_03_04	fullst	grissel	580
+772	926	substantiv	subst fem appell	forenkl utskyt_02_03_04 ub fl E	fullst	gimmer	660
+773	930	substantiv	subst fem appell	MM	fullst	rem	581
+774	940	substantiv	subst fem appell		fullst enkelttilfelle	datter -	582
+775	941	substantiv	subst fem appell		fullst enkelttilfelle	datter -	583
+776	942	substantiv	subst fem appell	omlyd_O>Ø	fullst enkelttilfelle	mor -	584
+777	943	substantiv	subst fem appell	omlyd_O>Ø	fullst enkelttilfelle	mor -	585
+778	944	substantiv	subst fem appell		fullst enkelttilfelle	søster -	586
+779	945	substantiv	subst fem appell		fullst enkelttilfelle	søster -	587
+780	946	substantiv	subst fem appell	omlyd_Å>Æ fl_ub_R fl_be_RNE	fullst	flå -	588
+781	947	substantiv	subst fem appell	bare_fl	enkelttilfelle	formødrer	743
+782	948	substantiv	subst fem appell	omlyd_O>E	fullst ulike_kons	rong	589
+783	949	substantiv	subst fem appell	omlyd_O>E	fullst like kons	dokk	645
+784	950	substantiv	subst fem appell	omlyd_A>E	fullst like_kons	natt	590
+785	951	substantiv	subst fem appell	omlyd_A>E	fullst ulike_kons	and	591
+786	952	substantiv	subst fem appell	omlyd_O>Ø	fullst	bok	592
+787	953	substantiv	subst fem appell	omlyd_O>Ø fl_ub_R fl_be_RNE	fullst	glo	593
+788	954	substantiv	subst fem appell	omlyd_O>Ø konsfordobling_fl	fullst	rot	594
+789	955	substantiv	subst fem appell	omlyd_Å>Æ	fullst	tåg	595
+790	956	substantiv	subst fem appell	omlyd_Å>Æ J-flyt	fullst	skåk	596
+791	957	substantiv	subst fem appell	omlyd_Å>Æ J-flyt fl_ub_S fl_be_SENE	fullst	gås -	597
+792	959	substantiv	subst fem appell	på_rotvokal omlyd_U>Y fl_ub_R fl_be_RNE	fullst	ku -	598
+793	962	substantiv	subst fem appell	omlyd_Å>E	fullst	hånd -	599
+794	970	substantiv	subst fem appell	på_ER	bare_fl	lappesaker	600
+795	972	substantiv	subst fem appell	fl_ub_0 fl_be_NE	bare_fl	tær	601
+796	990	substantiv, ubøy	subst fem appell ubøy		ubøyd	gaukemess	602
+797	991	substantiv	subst fem appell		bare_ent_be	søta	603
+798	994	substantiv, ubøy	subst prop gen			Jesu	604
+799	995	substantiv, ubøy	subst fem prop			Anne	605
+800	996	substantiv, ubøy	subst prop		vag_genus	Sovjetunionen	606
+801	997	substantiv, ubøy	subst prop		ent_be	Atlasfjella	607
+802	998	substantiv	subst appell		bare_fl_ub	vegne	608
+803	999	substantiv, ubøy	subst appell ubøy		ubøyd	babord	609
